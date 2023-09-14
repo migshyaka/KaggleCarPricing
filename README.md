@@ -18,7 +18,7 @@ Tailor car designs and features to meet specific price points.
 Formulate strategic business decisions for a successful entry into the US market.
 Understand the intricate pricing dynamics of a new market, guiding market positioning and competitiveness.
 
-##Project Highlights:
+## Project Highlights:
 
 Extensive Data Analysis: The project involves rigorous data analysis using Python, including data cleaning, exploration, and modeling.
 Machine Learning: Advanced machine learning techniques are employed to build predictive models for car pricing.
